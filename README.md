@@ -1,25 +1,129 @@
-<h1 align="center">Hi 👋, I'm Adeel Ahmad</h1>
-<h3 align="center">A passionate full stack developer from Lahore, Pakistan</h3>
+# 👋 Hi, I'm Adeel Ahmad
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeelahmad1021&label=Profile%20views&color=0e75b6&style=flat" alt="adeelahmad1021" /> </p>
+### SAP Business One Technical Developer | SAP B1 Add-on Developer | C# & .NET Developer
 
-- 🌱 I’m currently learning **Reactjs, Artifical Intelligence, Nodejs**
+I am a Software Developer specializing in **SAP Business One technical development and customization**. I work on developing custom SAP B1 add-ons, database solutions, business logic and reporting systems to improve business processes and extend SAP Business One functionality.
 
-- 👨‍💻 All of my projects are available at [adeelahmad.codehub.pk](adeelahmad.codehub.pk)
+My primary focus is building reliable, maintainable and business-oriented solutions using the SAP Business One SDK, C#, .NET and SAP HANA.
 
-- 💬 Ask me about **react, nodejs,backend**
+---
 
-- 📫 How to reach me **adeelahmad1021@gmail.com**
+### 🚀 About Me
 
-- ⚡ Fun fact **I think I am ambivert**
+- 💼 Specialized in **SAP Business One Technical Development**.
+- 🔧 Experienced in developing and maintaining **custom SAP B1 Add-ons**.
+- 💻 Working with **C#, .NET, SAP Business One SDK, DI API and UI API**.
+- 🗄️ Writing and optimizing **SAP HANA SQL queries and database views**.
+- 📊 Developing customized reports using **SAP Crystal Reports**.
+- 🔄 Interested in SAP B1 integrations, API development and automation.
+- 🌱 Continuously improving my skills in software architecture, API integration and advanced .NET development.
+- 📍 Based in Pakistan.
+- 📫 Reach me at: **adeelahmad1021@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Technical Skills & Technologies
+
+#### SAP Business One Development
+
 <p align="left">
-<a href="https://linkedin.com/in/adeelahmad1021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeelahmad1021" height="30" width="40" /></a>
-<a href="https://instagram.com/adeel.ahmad1021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adeel.ahmad1021" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/SAP_Business_One-0FA6D9?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_B1_SDK-0070C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DI_API-0070C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI_API-0070C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SAP_HANA-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crystal_Reports-005A9C?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+#### Programming & Frameworks
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeelahmad1021&show_icons=true&locale=en&layout=compact" alt="adeelahmad1021" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+#### Database & Reporting
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SAP_HANA-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crystal_Reports-005A9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+#### Development Tools & Version Control
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 💼 SAP Business One Areas of Expertise
+
+- **Add-on Development:** Developing custom SAP Business One add-ons using C# and the SAP B1 SDK.
+- **UI API:** Custom forms, screens, menus, events and user interface customization.
+- **DI API:** Working with SAP Business One business objects and data operations.
+- **SAP HANA SQL:** Complex queries, joins, views, subqueries and business reporting.
+- **Crystal Reports:** Custom report design, formatting, grouping and database integration.
+- **SAP B1 Customization:** User-defined fields (UDFs), user-defined tables (UDTs) and business process customization.
+- **Add-on Deployment:** Add-on packaging, registration and deployment through SAP Business One SLD.
+- **Version Control:** Managing source code, branches, commits, tags and production releases using Git and GitHub.
+
+---
+
+### 🚀 Featured Project
+
+#### SAP Business One – CostSheet Add-on
+
+A custom SAP Business One add-on developed using C# and the SAP Business One SDK.
+
+**Technologies:** C#, .NET, SAP B1 SDK, DI API, UI API, SAP HANA SQL and Crystal Reports.
+
+**Project Highlights:**
+- Custom SAP Business One add-on development.
+- Materials and Resources management.
+- CostSheet functionality and reporting.
+- Custom database queries and reporting logic.
+- Version-controlled development and production releases.
+- Git-based source code and release management.
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adeelahmad1021&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelahmad1021&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adeelahmad1021&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/adeelahmad1021" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adeelahmad1021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/adeelahmad1021">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building practical software solutions and extending the capabilities of SAP Business One, one project at a time.</i>
+</p>
