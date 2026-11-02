@@ -86,6 +86,7 @@ A custom SAP Business One add-on developed using C# and the SAP Business One SDK
 **Technologies:** C#, .NET, SAP B1 SDK, DI API, UI API, SAP HANA SQL and Crystal Reports.
 
 **Project Highlights:**
+
 - Custom SAP Business One add-on development.
 - Materials and Resources management.
 - CostSheet functionality and reporting.
@@ -93,17 +94,20 @@ A custom SAP Business One add-on developed using C# and the SAP Business One SDK
 - Version-controlled development and production releases.
 - Git-based source code and release management.
 
+**Project Repository:** [SAPB1-CostSheet-Addon](https://github.com/AdeelAhmad1021/SAPB1-CostSheet-Addon)
+
+**Latest Production Release:** [CostSheet V1.0.6](https://github.com/AdeelAhmad1021/SAPB1-CostSheet-Addon/releases/tag/V1.0.6)
+
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeelahmad1021&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelahmad1021&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=adeelahmad1021&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adeelahmad1021&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeelahmad1021&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" />
 </p>
 
 ---
